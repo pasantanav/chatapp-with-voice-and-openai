@@ -1,6 +1,6 @@
 Lab: Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
 
-Building a virtual assistant that can:
+The Virtual assistant can:
 - Take voice input,
 - Convert it to text using speech-to-text technology,
 - Send the text to OpenAI's GPT-3 model,
